@@ -1,0 +1,10 @@
+Student{id=4, name='Ali', surname='Bagirov', age=21, speciality='Menecment'}
+Student{id=2, name='Ferid', surname='Babayev', age=19, speciality='Muhasib'}
+Student{id=8, name='Ilahe', surname='Babayeva', age=25, speciality='Design'}
+Student{id=5, name='Ilham', surname='Babayev', age=22, speciality='Turizm'}
+Student{id=10, name='Malik', surname='Mammadov', age=27, speciality='Developer'}
+Student{id=6, name='Murad ', surname='Bagirov', age=23, speciality='Turizm'}
+Student{id=11, name='Nicat', surname='Dadashov', age=28, speciality='Muellim'}
+Student{id=7, name='Seltenet', surname='Agayeva', age=24, speciality='Muellim'}
+Student{id=9, name='Ulvi', surname='Abbasov', age=26, speciality='Developer'}
+Student{id=3, name='Zernisan', surname='Bagirova', age=20, speciality='Muellim'}

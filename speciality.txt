@@ -1,0 +1,2 @@
+Student{id=5, name='Ilham', surname='Babayev', age=22, speciality='Turizm'}
+Student{id=6, name='Murad ', surname='Bagirov', age=23, speciality='Turizm'}

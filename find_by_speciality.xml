@@ -1,0 +1,16 @@
+<ArrayList>
+    <item>
+        <id>5</id>
+        <name>Ilham</name>
+        <surname>Babayev</surname>
+        <age>22</age>
+        <speciality>Turizm</speciality>
+    </item>
+    <item>
+        <id>6</id>
+        <name>Murad</name>
+        <surname>Bagirov</surname>
+        <age>23</age>
+        <speciality>Turizm</speciality>
+    </item>
+</ArrayList>
